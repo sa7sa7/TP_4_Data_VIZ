@@ -1,0 +1,23 @@
+{
+  "name": "TP_4_Data_VIZ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa7sa7/TP_4_Data_VIZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa7sa7/TP_4_Data_VIZ/issues"
+  },
+  "homepage": "https://github.com/sa7sa7/TP_4_Data_VIZ#readme",
+  "dependencies": {
+    "d3": "^4.13.0"
+  }
+}
